@@ -1,0 +1,33 @@
+#header 
+{
+
+width: 100%;
+
+}
+#id
+{
+
+background-color: white;
+color : black ;
+width: 50%;
+float : none;
+
+}
+#footer
+{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color :  cornflowerblue;
+    color : white;
+    width: 100%;
+}
+Canvas
+{
+  
+border-radius: 30px;
+border:5px solid rgb(33, 11, 235);
+margin-top: 70px;
+padding: -5px;
+
+}
